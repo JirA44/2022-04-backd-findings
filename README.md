@@ -1,3 +1,13 @@
+## Français
+
+Dépôt de constatations d’un concours d’audit Backd. Exemple : consulter les rapports dans le cadre de l’analyse du concours ; les constats ne décrivent pas nécessairement l’état actuel du logiciel.
+
+## English
+
+Repository of findings from a Backd audit contest. Example: consult the reports in the context of the contest; findings may not describe the current state of the software.
+
+---
+
 # Backd Contest
 
 Unless otherwise discussed, this repo will be made public after contest completion, sponsor review, judging, and two-week issue mitigation window.
